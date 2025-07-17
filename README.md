@@ -1,2 +1,2 @@
 # FEDF
-Frontend Development Course Reposdity
+Frontend Development Course
