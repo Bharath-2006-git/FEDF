@@ -1,1 +1,1 @@
- Hi 
+alert('Hi');
